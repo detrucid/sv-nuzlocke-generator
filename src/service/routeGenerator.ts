@@ -228,7 +228,7 @@ export function getRoutes(): Route[] {
             { name: 'Rockruff', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Mudbray', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Toxel', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
-            { name: 'Flittle', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false }
+            { name: 'Flittle', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
 			// Lake
 			{ name: 'Psyduck', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Scyther', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
@@ -748,8 +748,8 @@ export function getRoutes(): Route[] {
             { name: 'Chewtle', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Drednaw', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Dreepy', isScarletExclusive: false, isVioletExclusive: true, probability: 0, isWaterEncounter: false },
-            { name: 'Flamigo', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false }
-            { name: 'Clodsire', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false }
+            { name: 'Flamigo', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
+            { name: 'Clodsire', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Wooper', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
 			// Riverside
             { name: 'Buizel', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
@@ -1577,7 +1577,7 @@ export function getRoutes(): Route[] {
             { name: 'Capsakid', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Rellor', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Flittle', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
-            { name: 'Orthworm', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false }
+            { name: 'Orthworm', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
 			// Riverside
 			{ name: 'Psyduck', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Marill', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
@@ -1860,7 +1860,7 @@ export function getRoutes(): Route[] {
             { name: 'Maschiff', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Brambleghast', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Toedscool', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
-            { name: 'Toedscruel', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false }
+            { name: 'Toedscruel', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
 			// Fixed
 			{ name: 'Grafaiai', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Tinkatuff', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
