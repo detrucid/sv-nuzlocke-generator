@@ -2294,6 +2294,16 @@ export function getRoutes(): Route[] {
             { name: 'Iron Moth', isScarletExclusive: false, isVioletExclusive: true, probability: 0, isWaterEncounter: false },
             { name: 'Iron Thorns', isScarletExclusive: false, isVioletExclusive: true, probability: 0, isWaterEncounter: false },
             */
+        ]},
+        name: 'Pokémon League', 
+        key: 'pokemon_league',
+        encounters: [
+            { name: 'Igglybuff', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
+            { name: 'Tandemaus', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
+            { name: 'Fidough', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
+            { name: 'Sunkern', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
+            { name: 'Combee', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
+            { name: 'Happiny', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false }
         ]
     }
     ]
