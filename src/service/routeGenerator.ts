@@ -1230,7 +1230,7 @@ export function getRoutes(): Route[] {
             { name: 'Pawmo', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Pawmi', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Maschiff', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
-            { name: 'Toedscool', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
+            // Does not spawn { name: 'Toedscool', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             { name: 'Cyclizar', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
             // Town
 			{ name: 'Grimer', isScarletExclusive: false, isVioletExclusive: false, probability: 0, isWaterEncounter: false },
